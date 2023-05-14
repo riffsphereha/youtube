@@ -1,0 +1,8 @@
+Command to create network: docker network create starrnet
+
+Trash-Guides: https://trash-guides.info/Hardlinks/How-to-setup-for/Unraid/
+
+Icons: Heimdall
+Audio recorded with audacity
+Video recorded with obs
+Edited with davinci resolve
